@@ -105,7 +105,7 @@
                 </tr>
                 <tr>
                     <td>⬇️</td>
-                    <td><a href="Leo Shi Resume.pdf">Download my CV</a></td>
+                    <td><a href="Leo Shi Resume.pdf">Download my Resume</a></td>
                 </tr>
                 <tr>
                     <td>💼</td>
