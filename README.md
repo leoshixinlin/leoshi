@@ -87,3 +87,35 @@
             <li><strong>✅ Python, R, SQL, Tableau, Excel, Microsoft Word, Microsoft Powerpoint:</strong></li>
             <li><strong>✅ Strong Communication, Long-term memory and Collaboration</strong>.</li>
         </ul>
+
+        <h2>Contact Details</h2>
+        <table>
+            <tbody>
+                <tr>
+                    <td>📧</td>
+                    <td><a href="mailto:leoshixinlin@gmail.com">leoshixinlin@gmail.com</a></td>
+                </tr>
+                <tr>
+                    <td>📞</td>
+                    <td>(+1) 626-417-3822</td>
+                </tr>
+                <tr>
+                    <td>📍</td>
+                    <td>Monterey Park, California</td>
+                </tr>
+                <tr>
+                    <td>⬇️</td>
+                    <td><a href="Leo Shi Resume.pdf">Download my CV</a></td>
+                </tr>
+                <tr>
+                    <td>💼</td>
+                    <td><a href="https://www.linkedin.com/in/leoshixl/">My Linkedin Page</a></td>
+                </tr>
+                
+            </tbody>
+        </table>
+    </div>
+
+  
+</body>
+</html>
