@@ -81,4 +81,9 @@
             results. I'm excited to connect with others who share this vision and explore new opportunities for growth and 
             collaboration
         </p>
-        
+
+        <h2>My skills</h2>
+        <ul>
+            <li><strong>✅ Python, R, SQL, Tableau, Excel, Microsoft Word, Microsoft Powerpoint:</strong></li>
+            <li><strong>✅ Strong Communication, Long-term memory and Collaboration</strong>.</li>
+        </ul>
